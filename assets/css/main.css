@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 100vh;
+    background-image: url(/images2/bg-masthead.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+div {
+    text-align: center;
+    width: 50%;
+    margin:auto;
+    padding-top: 15%;
+}
+div h1 {
+    font-size: 85px;
+    font-style: normal;
+}
+div h3 {
+    font-size: 30px;
+    margin-top: 15px;
+    font-style: italic;
+}
+div button {
+    background-color: #1D809F;
+    border: none;
+    border-radius: 5px;
+    padding: 25px 50px;
+    margin-top: 40px;
+    color: white;
+    cursor: pointer;
+}
+div button:hover {
+    background-color: #4e8799;
+}
+#ikincihisse {
+    background-repeat: no-repeat;
+}
+#bolmeiki {
+    text-align: center;
+    width: 50%;
+    margin:auto;
+    padding-bottom: 8%;
+    padding-top: 9%;
+}
+#ikincibaslig {
+    font-size: 30px;
+    margin-top: 15px;
+    font-style: normal;
+}
+#paragraf {
+    font-size: 18px;
+    margin-top: 15px;
+    font-style: normal;
+    color: rgb(68, 68, 68);
+}
+#duyme {
+    border: none;
+    border-radius: 5px;
+    padding: 25px 50px;
+    margin-top: 40px;
+    background-color: #212529;
+    color: white;
+    cursor: pointer;
+}
+#duyme:hover {
+    background-color: #39393a;
+}
+#ucuncuhisse {
+    height: 100vh;
+    background-image: url(/images2/bg-callout.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#dorduncuhisse {
+    background-repeat: no-repeat;
+    background-color: #1D809F;
+}
+#bolmedord {
+    text-align: center;
+    width: 50%;
+    margin:auto;
+    padding-bottom: 6.5%;
+    padding-top: 7%;
+}
+#dorduncubaslig {
+    font-size: 30px;
+    margin-top: 15px;
+    font-style: normal;
+    color: white;
+}
+#duyme2 {
+    border: none;
+    border-radius: 5px;
+    padding: 25px 50px;
+    margin-top: 30px;
+    background-color: #f3f3f3;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+#duyme2:hover {
+    background-color: #908b8b;
+}
+#duyme3 {
+    border: none;
+    border-radius: 5px;
+    padding: 25px 50px;
+    margin-top: 30px;
+    margin-left: 25px;
+    background-color: #212529;
+    color: white;
+    cursor: pointer;
+}
+#duyme3:hover {
+    background-color: #39393a;
+}
+#xerite {
+    height: 60vh;
+    width: 100%;
+    border: 0;
+}
+#Sonhisse   {
+    height: 40vh;
+    width: 100%;
+    border: 0;
+}
+#facebook {
+    width: 60px;
+    height: 60px;
+    padding-left: 43%;
+    margin-top: 80px;
+    cursor: pointer;
+}
+#twitter {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: 80px;
+    cursor: pointer;
+}
+#instagram {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: 80px;
+    cursor: pointer;
+}
+#paragraf2 {
+    font-size: 14px;
+    margin-top: 50px;
+    font-style: normal;
+    text-align: center;
+    color: rgb(87, 86, 86);
+}
+#link1 {
+    color: #4e8799;
+}
+#link1:hover {
+    color: #87b5c3;
+}
